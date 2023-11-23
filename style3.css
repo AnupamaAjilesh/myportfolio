@@ -4,7 +4,8 @@
     padding: 0px;
 }
 .container{
-    background-color: #ffffff;
+/*     background-color: #ffffff; */
+    background color:red;
     width: 100%;
     height: 100%;
     position: relative;
